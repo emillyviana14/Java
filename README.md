@@ -1,8 +1,13 @@
 # 🔌 Monitoramento de Consumo de Energia
 
-Sistema desenvolvido para monitorar e gerenciar o consumo de energia elétrica em tempo real, com alertas automatizados e relatórios analíticos.
+Este projeto tem como objetivo monitorar o consumo de energia elétrica de forma eficiente, gerando alertas automáticos e relatórios inteligentes para promover sustentabilidade e economia.
+
+![Banner](https://img.shields.io/badge/ESG-Consciente-green) ![Java](https://img.shields.io/badge/Java-17-blue) ![Spring Boot](https://img.shields.io/badge/Spring_Boot-2.7-brightgreen)
+
+---
 
 ## 🚀 Tecnologias utilizadas
+
 - Java 17
 - Spring Boot
 - Spring Security
@@ -10,33 +15,24 @@ Sistema desenvolvido para monitorar e gerenciar o consumo de energia elétrica e
 - Docker
 - Oracle Database
 - Flyway
+- Maven
 
-## ♻️ Objetivo ESG
-Este projeto contribui para a sustentabilidade ao promover o uso consciente de energia, reduzindo desperdícios e apoiando decisões baseadas em dados.
+---
 
-## 📦 Como executar o projeto
+## 🎯 Objetivo ESG
+
+Alinhar tecnologia com sustentabilidade, reduzindo o desperdício de energia e promovendo a responsabilidade ambiental por meio de monitoramento eficiente.
+
+---
+
+## 📦 Como executar
 
 ```bash
-# Clonar o repositório
+# Clone o repositório
 git clone https://github.com/emillyviana14/Java.git
 
-# Entrar na pasta
+# Acesse a pasta
 cd monitoramento-energia
 
-# Subir com Docker
+# Execute com Docker
 docker-compose up
-
-✨ Funcionalidades
-📊 Visualização de consumo por setor
-
-⚠️ Alertas automáticos de picos
-
-🧾 Geração de relatórios
-
-👥 Controle de usuários com autenticação
-
-👩‍💻 Desenvolvido por
-Emilly Viana
-📧 emillyrodrigues14@outlook.com
-📱 (94) 99149-9201
-📍 Goiânia - GO
